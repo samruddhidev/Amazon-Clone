@@ -1,0 +1,29 @@
+*{
+    color:white;
+}
+
+#second{
+    height:60px;
+    width:2000px;
+    background-color: black;
+    border:10px solid white;
+}
+a{
+    text-decoration:25px none yellow;
+    margin-right: 150px;
+
+}
+button{
+    background-color: #f08804;
+}
+#first{
+    color:#f08804;
+    font-size: 25px;
+}
+
+
+
+
+
+
+
